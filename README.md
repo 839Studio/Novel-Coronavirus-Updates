@@ -4,6 +4,7 @@
 #### （最新一次更新时间：3月2日23:30）
 #### (Latest update: 23:30 Mar. 2 GMT+8)
 
+#### 文件说明 Documentation
 Updates_NC.csv包含原始数据，每日更新；ch-en-reference.csv包含地名对应的英文翻译，根据情况更新。
 
 Updates_NC.csv中的时间是指报道/通报时间，可能会跟实际确诊时间有最多一天的误差。
@@ -11,6 +12,8 @@ Updates_NC.csv中的时间是指报道/通报时间，可能会跟实际确诊�
 Updates_NC.csv contains the raw data and is update on daily basis. ch-en-reference.csv is used for English-speaking users to look up the English translation of country/province/city/etc. names.
 
 The columns in Updates_NC.csv respectively contain the date of report, province of China/country, city of China, number of new confirmations, number of new recoveries, number of new deaths, source, first link, second link, third link, and notes.
+
+#### 数据使用说明 Open data licensing
 
 数据收集与更新不易。如使用数据请标注，疫情数据由**澎湃新闻美数课整理提供**。
 
