@@ -2,7 +2,7 @@
 ## 新增确诊新型冠状病毒肺炎数据 COVID-19 updates in data
 （最新一次更新时间：3月2日23:30）
 
-(Latest update: 23:30 Mar. 2 GMT+8)
+ (Latest update: 23:30 Mar. 2 GMT+8)
 
 ### 文件说明 Documentation
 
