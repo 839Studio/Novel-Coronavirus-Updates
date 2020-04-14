@@ -1,0 +1,19 @@
+---
+layout: default
+title: Daily Data
+---
+<h2>Daily Update</h2>
+
+<!-- Data -->
+{% assign updates = site.data.updates %}
+{% assign updates = updates | sort:"报道时间" %}
+
+<!-- Document -->
+
+{% for update in updates %}
+
+<ul>
+<li>{{ update.报道时间 }} ({{ update.省份 }}, {{ update.城市 }}, {{ update.新增确诊 }}, {{ update.新增出院 }}, {{ update.新增死亡 }}, {{ update.消息来源 }}, {{ update.来源链接1 }})</li>
+</ul>
+
+{% endfor %}
