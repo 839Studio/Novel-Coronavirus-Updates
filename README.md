@@ -5,6 +5,10 @@
 
 Latest update: 23:49 Apr. 15 GMT+8
 
+从4月17日起，主要海外数据停止更新。
+
+Starting from Apr. 17, we stopped updating data of countries outside of China.
+
 ### 文件说明 Documentation
 
 Updates_NC.csv包含原始数据，每日更新；ch-en-reference.csv包含地名对应的英文翻译，根据情况更新。
