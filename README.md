@@ -3,7 +3,7 @@
 
 最新一次更新时间：5月3日12:00
 
-Latest update: 12:00 May. 1 GMT+8
+Latest update: 12:00 May. 3 GMT+8
 
 从4月17日起，主要海外数据停止更新。
 
